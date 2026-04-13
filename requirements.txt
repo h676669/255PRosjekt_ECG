@@ -6,3 +6,4 @@ tensorflow[and-cuda]
 scikit-learn
 keras
 seaborn
+mlflow
