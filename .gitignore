@@ -215,3 +215,4 @@ __marimo__/
 /mlruns
 *.keras
 /C/
+/hf_upload/
