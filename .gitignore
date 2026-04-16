@@ -216,3 +216,4 @@ __marimo__/
 *.keras
 /C/
 /hf_upload/
+/.gradio
