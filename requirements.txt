@@ -7,3 +7,5 @@ scikit-learn
 keras
 seaborn
 mlflow
+keras-tuner
+mlflow-skinny

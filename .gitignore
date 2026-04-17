@@ -217,3 +217,7 @@ __marimo__/
 /C/
 /hf_upload/
 /.gradio
+/hf_model/
+/hf_space/
+/artifacts
+/keras_tuner
