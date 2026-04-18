@@ -1,0 +1,8 @@
+{
+  "lstm_units_1": 128,
+  "lstm_units_2": 128,
+  "dropout": 0.2,
+  "dense_units": 128,
+  "lr": 0.00039447639218573435,
+  "loss": "bce"
+}

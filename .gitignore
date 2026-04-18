@@ -221,3 +221,4 @@ __marimo__/
 /hf_space/
 /artifacts
 /keras_tuner
+artifacts/eval_sets.npz
