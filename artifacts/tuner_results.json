@@ -1,6 +1,6 @@
 {
   "filters_mult": 2.0,
-  "dropout": 0.30000000000000004,
+  "dropout": 0.3,
   "dense_units": 128,
   "lr": 0.0004098521113058352,
   "loss": "bce"
